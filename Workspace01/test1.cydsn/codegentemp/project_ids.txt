@@ -1,0 +1,9 @@
+E:\weiwancheng\E300-77\one\00000\Workspace01\Design01.cydsn\Design01.cyprj|1ed89b06-1c10-4643-adc3-92cf0b8814de
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|dca9e09b-256f-464c-915e-32724568b996
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|80bb2933-49ba-4dd4-9af0-0d7a31932131
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|83f7333d-ab72-4158-ab9a-e6a5782c0704
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|f17f6e91-59bd-4e85-84b5-c2aee3312f9e
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1c7de6f7-02dd-46af-9316-751b59609099
+E:\weiwancheng\E300-77\one\00000\Workspace01\Design02.cydsn\Design02.cyprj|7bcb842f-b58e-4b49-a890-808f7a443aa5
+E:\weiwancheng\E300-77\one\00000\Workspace01\test1.cydsn\test1.cyprj|f82e3f16-2102-4bc9-8a60-019de9e85918
+E:\weiwancheng\E300-77\one\00000\Workspace01\test2.cydsn\test2.cyprj|2ae4162c-9b89-4af7-98d4-c0aa9e48cd84

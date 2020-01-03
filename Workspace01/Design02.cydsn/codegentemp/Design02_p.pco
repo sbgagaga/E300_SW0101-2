@@ -1,0 +1,33 @@
+dont_use_io iocell 3 2
+dont_use_io iocell 3 3
+dont_use_location m0s8scbcell -1 -1 0
+dont_use_location SCB -1 -1 0
+set_io "VolPlus_in(0)" iocell 3 4
+set_io "\CapSense_1:Sns(5)\" iocell 0 1
+set_io "\CapSense_1:Sns(3)\" iocell 0 3
+set_location "\ADC_SAR_Seq_1:cy_psoc4_sar\" p4sarcell -1 -1 0
+set_io "\CapSense_1:Sns(4)\" iocell 0 2
+set_io "Mute_in(0)" iocell 3 6
+set_io "VolReduce_in(0)" iocell 4 0
+set_location "\CapSense_1:IDACMod\" p4csidacV2cell -1 -1 0
+set_location "\CapSense_1:IDACComp\" p4csidacV2cell -1 -1 1
+set_location "ClockBlock" m0s8clockblockcell -1 -1 0
+set_io "\I2C_Slave:scl(0)\" iocell 1 2
+set_location "\CapSense_1:CSD\" p4csdcell -1 -1 0
+set_location "\I2C_Slave:SCB\" m0s8scbcell -1 -1 2
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_io "\I2C_Slave:sda(0)\" iocell 1 3
+set_location "\I2C_1:SCB\" m0s8scbcell -1 -1 1
+set_location "isr_1" interrupt -1 -1 14
+set_location "\I2C_1:SCB_IRQ\" interrupt -1 -1 8
+set_location "\I2C_Slave:SCB_IRQ\" interrupt -1 -1 9
+set_location "\CapSense_1:ISR\" interrupt -1 -1 13
+set_location "\ADC_SAR_Seq_1:IRQ\" interrupt -1 -1 19
+set_io "\I2C_1:sda(0)\" iocell 3 1
+set_location "\Timer_1:cy_m0s8_tcpwm_1\" m0s8tcpwmcell -1 -1 0
+set_io "\CapSense_1:Sns(0)\" iocell 0 6
+set_io "\CapSense_1:Cmod(0)\" iocell 4 2
+set_io "ADC(0)" iocell 2 6
+set_io "\I2C_1:scl(0)\" iocell 3 0
+set_io "\CapSense_1:Sns(2)\" iocell 0 4
+set_io "\CapSense_1:Sns(1)\" iocell 0 5

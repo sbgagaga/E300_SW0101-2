@@ -1,0 +1,258 @@
+E:\weiwancheng\E300-77\one\00000\Workspace01\test2.cydsn\TopDesign\TopDesign.cysch
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\CapSense_P4_v6_0.cysym
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\tuner.dll
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\CapSense_P4_v6_0.dll
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\CapSense_P4_v6_0.cystate
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\CapSense_P4_v6_0.pdf
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\version.cypatch
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\CapSense_P4_v6_0.cysch
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Control.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Processing.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Structure.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Tuner.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Filter.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Sensing.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Control.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Filter.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Processing.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Sensing.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Structure.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Tuner.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Configuration.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_INT.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SensingCSD_LL.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SensingCSD_LL.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SensingCSX_LL.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SensingCSX_LL.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_RegisterMap.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Centroid_LL.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Centroid_LL.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Adc.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Adc.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Adc_INT.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SensingCSXRv_LL.s
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SensingCSXGnu_LL.S
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SensingCSXIar_LL.s
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SmartSense_LL.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_AdcStructure.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_AdcStructure.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SelfTest.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SelfTest.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_AlpFilter_LL.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_AdaptiveFilter_LL.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_AdvancedCentroid_LL.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Gesture.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_Gesture.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SensingISX_LL.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\API\CapSense_SensingISX_LL.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\Library\Capsense_P4Library_GCC.a
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\Library\Capsense_P4Library_GCCp.a
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\Library\Capsense_P4Library_IAR.a
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\Library\Capsense_P4Library_IARp.a
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\Library\Capsense_P4Library_MDK.a
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\CapSense_P4_v6_0\PSoC4\Library\Capsense_P4Library_MDKp.a
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_isr_v1_70\cy_isr_v1_70.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_isr_v1_70\cy_isr_v1_70.pdf
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_isr_v1_70\cy_isr_v1_70.primitive
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_isr_v1_70\cy_isr_v1_70.cystate
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_isr_v1_70\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_isr_v1_70\Custom\custom.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_isr_v1_70\PSoC4\API\intc.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_isr_v1_70\PSoC4\API\intc.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_psoc4_csd2_v1_30\cy_psoc4_csd2_v1_30.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_psoc4_csd2_v1_30\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_psoc4_csd2_v1_30\Custom\cycustomizer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_psoc4_csd2_v1_30\PSoC4\cy_psoc4_csd2_v1_30.cyprimitive
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\cy_pins_v2_20.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\cy_pins_v2_20.pdf
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\cy_pins_v2_20.cystate
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\cy_pins_v2_20.cyprimitive
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\custom.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyenums.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cypinsdata.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cypinpicture.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cypinutils.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cygeneralcontrol.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cygeneralcontrol.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyinputcontrol.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyinputcontrol.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cymappingcontrol.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cymappingcontrol.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyoutputcontrol.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyoutputcontrol.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cypinaliasdialog.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cypinaliasdialog.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cypinscontrol.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cypinscontrol.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyporcontrol.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyporcontrol.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\Resource1.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyclockingcontrol.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyclockingcontrol.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cygeneralcontrol.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyinputcontrol.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cymappingcontrol.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyoutputcontrol.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cypinaliasdialog.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cypinscontrol.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyporcontrol.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\Resource1.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\Custom\cyclockingcontrol.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\PSoC4\API\pins.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\PSoC4\API\pins.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\PSoC4\API\aliases.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\PSoC4\API\pins_PM.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_virtualmux_v1_0\cy_analog_virtualmux_v1_0.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_virtualmux_v1_0\cy_analog_virtualmux_v1_0.pdf
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_virtualmux_v1_0\cy_analog_virtualmux_v1_0.v
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_virtualmux_v1_0\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_virtualmux_v1_0\Custom\cy_analog_virtualmux_v1_0.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_psoc4_csidac2_v1_0\cy_psoc4_csidac2_v1_0.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_psoc4_csidac2_v1_0\PSoC4\cy_psoc4_csidac2_v1_0.cyprimitive
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\ZeroTerminal\ZeroTerminal.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\ZeroTerminal\ZeroTerminal.pdf
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\ZeroTerminal\ZeroTerminal.v
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\ZeroTerminal\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_clock_v2_20\cy_clock_v2_20.cyprimitive
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_clock_v2_20\cy_clock_v2_20.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_clock_v2_20\cy_clock_v2_20.pdf
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_clock_v2_20\cy_clock_v2_20.cystate
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_clock_v2_20\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_clock_v2_20\PSoC4\API\clk.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_clock_v2_20\PSoC4\API\clk.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_clock_v2_20\Custom\custom.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\or_v1_0\or_v1_0.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\or_v1_0\or_v1_0.pdf
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\or_v1_0\or_v1_0.v
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\or_v1_0\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\or_v1_0\Custom\custom.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_noconnect_v1_0\cy_analog_noconnect_v1_0.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_noconnect_v1_0\cy_analog_noconnect_v1_0.pdf
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_noconnect_v1_0\cy_analog_noconnect_v1_0.primitive
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_noconnect_v1_0\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_analog_noconnect_v1_0\Custom\custom.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\SCB_P4_v4_0.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\SCB_P4_v4_0.pdf
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\SCB_P4_v4_0.cycdx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\SCB_P4_v4_0.cystate
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2ctab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2ctab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2cbinarygrid.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2cbinarygrid.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2cparameters.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cynumconverter.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2cadvancedtab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2cadvancedtab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspibasictab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspibasictab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspiadvancedtab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspiadvancedtab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspiparameters.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspipinstab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspipinstab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartconfiguretab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartconfiguretab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartadvancedtab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartadvancedtab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartparameters.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartpinstab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartpinstab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\cygeneraltab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\cygeneraltab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\cyscbtab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\cyscbtab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\EZI2C\cyezi2cparameters.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\EZI2C\cyezi2ctab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\EZI2C\cyezi2ctab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\EZI2C\cyezi2cadvancedtab.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\EZI2C\cyezi2cadvancedtab.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\cycustomizer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\cyparameters.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\cytabcontrolwrapper.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\cytabcontrolwrapper.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Resources.Designer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\cyapicustomizer.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2ctab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2cbinarygrid.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\I2C\cyi2cadvancedtab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspibasictab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspiadvancedtab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\SPI\cyspipinstab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartconfiguretab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartadvancedtab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\UART\cyuartpinstab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\cygeneraltab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\cyscbtab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\EZI2C\cyezi2ctab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Tabs\EZI2C\cyezi2cadvancedtab.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\Custom\Resources.resx
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\SCB_P4_v4_0.cysch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_I2C.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_I2C_INT.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_I2C.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_I2C_BOOT.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_SPI_UART.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_SPI_UART.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_SPI_UART_INT.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_I2C_MASTER.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_I2C_SLAVE.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_PM.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_SPI.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_UART.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_BOOT.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_SPI_BOOT.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_UART_BOOT.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_PINS.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_I2C_PVT.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_SPI_UART_PVT.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_PVT.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_EZI2C.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_EZI2C_INT.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_EZI2C.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_EZI2C_PVT.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_EZI2C_BOOT.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\SCB_P4_v4_0\PSoC4\API\SCB_BOOT.h
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.pdf
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_virtualmux_v1_0\cy_virtualmux_v1_0.v
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_virtualmux_v1_0\version.cypatch
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_virtualmux_v1_0\Custom\custom.cs
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_m0s8_scb_v2_0\cy_m0s8_scb_v2_0.cysym
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\cy_m0s8_scb_v2_0\PSoC4\cy_m0s8_scb_v2_0.cyprimitive
+E:\weiwancheng\E300-77\one\00000\Workspace01\test2.cydsn\test2.cydwr
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Em_EEPROM_Dynamic_v2_20\API\cy_em_eeprom.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Em_EEPROM_Dynamic_v2_20\API\cy_em_eeprom.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\cm0gcc.ld
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\Cm0RealView.scat
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\Cm0Start.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\core_cm0.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\core_cm0_psoc4.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\CyBootAsmRv.s
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\CyFlash.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\CyFlash.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\CyLib.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\CyLib.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\cyPm.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\cyPm.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\cytypes.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\cyutils.c
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\cypins.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\core_cmFunc.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\core_cmInstr.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\Cm0Iar.icf
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\CyBootAsmIar.s
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\cmsis_armcc.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\cmsis_gcc.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\core_cm0plus.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\core_cm0plus_psoc4.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\cmsis_compiler.h
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\cy_boot_v5_80\PSoC4\API\CyBootAsmGnu.s
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\cy_lfclk_v1_20\PSoC4\API\CyLFClk.c
+D:\cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\cy_lfclk_v1_20\PSoC4\API\CyLFClk.h
